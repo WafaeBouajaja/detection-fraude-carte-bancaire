@@ -118,8 +118,8 @@ Pipeline : chargement des données → prétraitement et normalisation → gesti
 
 ## Documents
 
-- [Rapport complet (PDF)](docs/rapport_PFE.pdf)
-- [Présentation de soutenance](docs/presentation_PFE.pptx)
+   - [Rapport complet (PDF)](docs/rapport_PFE.pdf.pdf)
+   - [Présentation de soutenance](docs/presentation_PFE.pptx)
 
 ## Technologies
 
