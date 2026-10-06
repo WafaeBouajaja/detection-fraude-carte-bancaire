@@ -90,7 +90,7 @@ Pipeline : chargement des données → prétraitement et normalisation → gesti
 ├── docs/
 │   ├── rapport_PFE.pdf              # mémoire complet
 │   └── presentation_PFE.pptx        # support de soutenance
-├── data/                            # à remplir avec les CSV (non versionné)
+├── data/                            
 ├── requirements.txt
 └── README.md
 ```
